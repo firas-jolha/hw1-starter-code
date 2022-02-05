@@ -1,0 +1,2 @@
+apply plugin: 'application'	
+mainClassName = 'iu.dsa.hw1.Main'
